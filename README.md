@@ -1,1 +1,1 @@
-[![Trent Shailer's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=TrentShailer&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=ca9ee6&border_color=51576d&langs_count=5)](https://github.com/TrentShailer)
+Migrated to [TrentShailer - Codeberg](https://codeberg.org/TrentShailer)
